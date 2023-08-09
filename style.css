@@ -1,0 +1,146 @@
+.display{
+    display: flex;
+    background-color: white;
+    width: 60%;
+    height: 83vh;
+    border-radius: 10px;
+    margin-top: 45px;
+    margin-left: 260px;
+}
+.first{
+    display: flex;
+    gap: 9px;
+}
+.second{
+    display: flex;
+}
+.third{
+    display: flex;
+}
+.fourth{
+    display: flex;
+}
+.Wrap{
+    display: block;
+    background-image: url(./images/images/bg-sidebar-desktop.svg);
+    height: 80vh;
+    width: 27%;
+    margin-left: 15px;
+    border-radius: 15px;
+    margin-top: 10px;
+   
+}
+.btn{
+    background-color: hsl(213, 96%, 18%);
+    margin-top: 90px;
+    margin-left: 210px;
+    height: 40px;
+    width: 30%;
+    border-radius: 5px;
+}
+.btn1{
+    background-color: hsl(228, 100%, 84%);
+    width: 17%;
+    border-radius: 90px;
+    height: 47px;
+    border-color:hsl(228, 100%, 84%) ;
+    margin-top: 23px;
+    margin-left: 18px;
+    color: white;
+
+
+
+}
+.btn2{
+   background-color: hsl(243, 100%, 62%);
+    width: 17%;
+    border-radius: 90px;
+    height: 47px;
+    color: white;
+
+    border-color:white ;
+    margin-top: 23px;
+    margin-left: 18px;
+
+}
+.btn3{
+   background-color: hsl(243, 100%, 62%);
+   margin-top: 23px;
+   margin-left: 18px;
+   color: white;
+    
+    width: 17%;
+    border-radius: 90px;
+    height: 47px;
+    border-color:white ;
+}
+.btn4{
+   background-color: hsl(243, 100%, 62%);
+   margin-top: 23px;
+   margin-left: 18px;
+   color: white;
+    
+    width: 17%;
+    border-radius: 90px;
+    height: 47px;
+    border-color:white ;
+}
+.first p{
+    color: white;
+    margin-top: 30px;
+    font-size: small;
+    margin-left: 18px;
+    
+}
+.second p{
+    color: white;
+    margin-top: 30px;
+    font-size: small;
+    margin-left: 18px;
+
+}
+.third p{
+    color: white;
+    margin-top: 30px;
+    font-size: small;
+    margin-left: 18px;
+
+}
+.fourth p{
+    color: white;
+    margin-top: 30px;
+    font-size: small;
+    margin-left: 18px;
+}
+span{
+    color: white;
+    font-size: larger;
+}
+
+
+.btn a{
+    text-decoration: none;
+    color: white;
+}
+body{
+
+    background-color:hsl(206, 94%, 87%) ;
+}
+.form{
+    margin-left: 70px;
+    margin-top: 30px;
+    
+}
+h3{
+    font-size: large;
+    font-family: sans-serif;
+}
+label{
+    font-size: medium;
+    font-family: sans-serif;
+
+}
+input{
+    width: 80%;
+    height: 30px;
+}

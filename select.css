@@ -1,0 +1,242 @@
+.display{
+    display: flex;
+    background-color: white;
+    width: 70%;
+    height: 83vh;
+    border-radius: 10px;
+    margin-top: 45px;
+    margin-left: 260px;
+}
+.btn1{
+    background-color: hsl(228, 100%, 84%);
+    width: 17%;
+    border-radius: 90px;
+    height: 47px;
+    border-color:hsl(228, 100%, 84%) ;
+    margin-top: 23px;
+    margin-left: 18px;
+    color: white;
+
+
+
+}
+.form{
+    margin-top: 20px;
+    
+}
+h5 p{
+    font-size: smaller;
+    color: rgb(177, 169, 169);
+}
+h4{
+    font-size: x-large;
+    font-family: sans-serif;
+    margin-left: 90px;
+}
+.btn2{
+   background-color: hsl(243, 100%, 62%);
+    width: 17%;
+    border-radius: 90px;
+    height: 47px;
+    border-color:white ;
+    margin-top: 23px;
+    color: white;
+    margin-left: 18px;
+
+}
+.btn3{
+   background-color: hsl(243, 100%, 62%);
+   margin-top: 23px;
+   margin-left: 18px;
+   color: white;
+    
+    width: 17%;
+    border-radius: 90px;
+    height: 47px;
+    border-color:white ;
+}
+.btn4{
+   background-color: hsl(243, 100%, 62%);
+   margin-top: 23px;
+   margin-left: 18px;
+   color: white;
+    
+    width: 17%;
+    border-radius: 90px;
+    height: 47px;
+    border-color:white ;
+}
+.first p{
+    color: white;
+    margin-top: 30px;
+    font-size: small;
+    margin-left: 18px;
+    
+}
+.second p{
+    color: white;
+    margin-top: 30px;
+    font-size: small;
+    margin-left: 18px;
+
+}
+.third p{
+    color: white;
+    margin-top: 30px;
+    font-size: small;
+    margin-left: 18px;
+
+}
+.fourth p{
+    color: white;
+    margin-top: 30px;
+    font-size: small;
+    margin-left: 18px;
+}
+.first{
+    display: flex;
+    gap: 9px;
+}
+.second{
+    display: flex;
+}
+.third{
+    display: flex;
+}
+.fourth{
+    display: flex;
+}
+.Wrap{
+    display: block;
+    background-image: url(./images/images/bg-sidebar-desktop.svg);
+    height: 80vh;
+    width: 27%;
+    margin-left: 15px;
+    border-radius: 15px;
+    margin-top: 10px;
+}
+.btn{
+    background-color: hsl(213, 96%, 18%);
+    margin-top: 140px;
+    margin-left: 180px;
+    height: 40px;
+    width: 100%;
+    border-radius: 5px;
+}
+.btmwrap{
+    display: flex;
+}
+.btn6{
+    background-color: white;
+    margin-top: 140px;
+    margin-left: 120px;
+    height: 40px;
+    border-radius: 5px;
+    border-color: white;
+    width: 100%;
+
+}
+.btn6 a{
+    text-decoration: none;
+}
+.btn a{
+    text-decoration: none;
+    color: white;
+}
+body{
+    
+    background-color:hsl(206, 94%, 87%) ;
+}
+p{
+    /* margin-left: 20px; */
+    font-size: small;
+    word-spacing: 3px;
+}
+.wrapper{
+    display: flex;
+    gap: 20px;
+    margin-left: 70px;
+}
+.box1{
+    background-color:white;
+    
+    border-color: hsl(229, 24%, 87%);
+    width: 100%;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 70px;
+    border-radius: 9px;
+    cursor: pointer;
+
+
+}
+.box1:hover{
+    border:1.8px solid black;
+
+}
+.box1:active{
+    border:1.8px solid black;
+    /* transition: 30s; */
+
+}
+.box2:hover{
+    border:1.8px solid black;
+
+}
+.box2:active{
+    border:1.8px solid black;
+    /* transition: 30s; */
+
+}
+.box3:hover{
+    border:1.8px solid black;
+
+}
+.box3:active{
+    border:1.8px solid black;
+    /* transition: 30s; */
+
+}
+.box2{
+    /* border:1.8px solid black; */
+
+    background-color:white;
+    /* border:1.8px solid black; */
+    border-radius: 9px;
+    
+    width: 100%;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 70px;
+    cursor: pointer;
+}
+.month{
+    background-color: hsl(229, 24%, 87%);
+    display: flex;
+    width: 90%;
+    height: 50px;
+    margin-top: 30px;
+    margin-left: 55px;
+    border-radius: 5px;
+}
+h4{
+    font-size: medium;
+}
+.yer{
+    color:hsl(232, 51%, 85%) ;
+    margin-left: 150px;
+}
+.box3{
+    /* border:1.8px solid black; */
+
+    background-color:white;
+    
+    /* border:1.8px solid black; */
+    border-radius: 9px;
+    width: 100%;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 70px;
+    cursor: pointer;
+
+}

@@ -1,0 +1,142 @@
+.display{
+    
+        display: flex;
+        background-color: white;
+        width: 70%;
+        height: 83vh;
+        border-radius: 10px;
+        margin-top: 45px;
+        margin-left: 260px;
+
+}
+.first{
+    display: flex;
+    gap: 9px;
+}
+.second{
+    display: flex;
+}
+.third{
+    display: flex;
+}
+.fourth{
+    display: flex;
+}
+.Wrap{
+    display: block;
+    background-image: url(./images/images/bg-sidebar-desktop.svg);
+    height: 80vh;
+    width: 27%;
+    margin-left: 15px;
+    border-radius: 15px;
+    margin-top: 10px;
+}
+body{
+    
+    background-color:hsl(206, 94%, 87%) ;
+}
+.btn2{
+    background-color: hsl(243, 100%, 62%);
+     width: 17%;
+     border-radius: 90px;
+     height: 47px;
+     border-color:white ;
+     margin-top: 23px;
+     color: white;
+     margin-left: 18px;
+ 
+ }
+ .btn3{
+    background-color: hsl(243, 100%, 62%);
+    margin-top: 23px;
+    margin-left: 18px;
+    color: white;
+     
+     width: 17%;
+     border-radius: 90px;
+     height: 47px;
+     border-color:white ;
+ }
+ .btn4{
+    background-color: hsl(243, 100%, 62%);
+    margin-top: 23px;
+    margin-left: 18px;
+    color: white;
+     
+     width: 17%;
+     border-radius: 90px;
+     height: 47px;
+     border-color:white ;
+ }
+ .btn1{
+    background-color: hsl(228, 100%, 84%);
+    width: 17%;
+    border-radius: 90px;
+    height: 47px;
+    border-color:hsl(228, 100%, 84%) ;
+    margin-top: 23px;
+    margin-left: 18px;
+    color: white;
+
+
+
+}
+.first h4{
+    color: white;
+    margin-top: 30px;
+    font-size: small;
+    margin-left: 18px;
+    
+}
+.second h4{
+    color: white;
+    margin-top: 30px;
+    font-size: small;
+    margin-left: 18px;
+
+}
+
+.third h4{
+    color: white;
+    margin-top: 30px;
+    font-size: small;
+    margin-left: 18px;
+
+}
+.fourth h4{
+    color: white;
+    margin-top: 30px;
+    font-size: small;
+    margin-left: 18px;
+}
+.first{
+    display: flex;
+    gap: 9px;
+}
+.second{
+    display: flex;
+}
+.third{
+    display: flex;
+}
+.fourth{
+    display: flex;
+}
+.form{
+    margin-top:150px ;
+}
+img{
+    background-color:  hsl(354, 84%, 57%);
+    width: 15%;
+    border-radius: 80px;
+    height: 60px;
+    margin-left: 220px;
+}
+h3{
+    margin-left: 200px;
+    font-size: x-large;
+}
+.form p{
+    margin-left: 80px;
+    text-align: center;
+}
